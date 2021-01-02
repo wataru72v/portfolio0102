@@ -18,9 +18,8 @@ autonav:
 
 ## Github
 
-<br />
-[![](https://github-readme-stats.vercel.app/api?username=wataru72v)](https://github.com/wataru72v)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=wataru72v&layout=compact)](https://github.com/wataru72v)
+[![](https://github-readme-stats.vercel.app/api?username=wataru72v)![](https://github-readme-stats.vercel.app/api/top-langs/?username=wataru72v&layout=compact)](https://github.com/wataru72v)
+
 <br />
 <a href="https://github.com/wataru72v" target="_blank" rel="noopener">
   <img src="https://grass-graph.moshimo.works/images/wataru72v.png">
